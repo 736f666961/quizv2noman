@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+C:\Users\Sofia\Desktop\Fx\.metadata\.plugins\org.eclipse.jdt.core
+2369281116.index
+1012132037.index
+2505958312.index
+2330038302.index
+3156083099.index
+2478778195.index
+3357623907.index
+1447476766.index
+1722363794.index
+1626788841.index
+3554098604.index
